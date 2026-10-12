@@ -1,0 +1,12 @@
+{
+    "id": "ftl_calculator",
+    "version": "1.0.0",
+    "name": "FTL-520 二进制转换器",
+    "description": "仅供本台珍珠炮使用的编码计算器",
+    "author": "Fallen_Starry",
+    "link": "",
+    "entrypoint": "ftl_calculator",
+    "dependencies": {
+        "mcdreforged": ">=2.6.0"
+    }
+}
